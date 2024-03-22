@@ -1,5 +1,5 @@
 public class DataExeption extends Exception{
-    public DatatExeption(){}
+    public DataExeption(){}
 
     public void dataExeprion(String i){
         System.out.println("Exeption: Data not correct format");
